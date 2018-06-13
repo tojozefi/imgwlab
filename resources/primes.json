@@ -25,7 +25,7 @@
         },
         "inputFilegroup":{
             "type":"string",
-			"defaultValue":"fgrp-input",
+			"defaultValue":"fgrp-primesinput",
             "metadata":{
                 "description":"The file group where the input files are stored.",
                 "advancedType":"file-group"
