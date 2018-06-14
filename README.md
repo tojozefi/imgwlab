@@ -1,8 +1,13 @@
 # Azure Big Compute workshop
 
 ## Promo codes
-1. ..
-2. ..
+1. W54D9QYY0DPSNAJJVX
+2. W2XX1A8F8KV4S16F4S
+3. W282CP1QUILXRJWD5D
+4. WL70GF80VIZFUSYBDL
+5. WGQK25796N0269MS5U
+6. WVIPKBING8RW083OQB
+7. ..
 
 ## Workshop tutorial guides
 [Activate_Azure_trial_subscription.pdf](https://github.com/tojozefi/imgwlab/blob/master/resources/Activate_Azure_trial_subscription.pdf)
@@ -36,7 +41,7 @@
 
 [pingpong.sh](https://github.com/tojozefi/imgwlab/blob/master/resources/pingpong.sh)
 
-[sshkey_copy.sh](https://github.com/tojozefi/imgwlab/blob/master/sshkey_copy.sh)
+[sshkey_copy.sh](https://github.com/tojozefi/imgwlab/blob/master/resources/sshkey_copy.sh)
 
 ### Exercise 4
 [CycleCloud GUI](https://cycleserverzlyprb.westeurope.cloudapp.azure.com)
