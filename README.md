@@ -46,5 +46,5 @@
 ### Exercise 4
 [CycleCloud GUI](https://cycleserverzlyprb.westeurope.cloudapp.azure.com)
 
-[cyclecloud SSH key](https://github.com/tojozefi/imgwlab/blob/master/resources/cyclelab.pem)
+[cyclecloud SSH key](https://github.com/tojozefi/imgwlab/blob/master/resources/cyclecloud.pem)
 
