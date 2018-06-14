@@ -5,15 +5,13 @@
 2. ..
 
 ## Workshop tutorial guides
-[Activate_Azure_trial_subscription.pdf](https://github.com/tojozefi/imgwlab/blob/master/Activate_Azure_trial_subscription.pdf)
+[Activate_Azure_trial_subscription.pdf](https://github.com/tojozefi/imgwlab/blob/master/resources/Activate_Azure_trial_subscription.pdf)
 
-[Exercise1_SLURM_cluster_from_ARM_template.pdf](https://github.com/tojozefi/imgwlab/resources/blob/master/Exercise1_SLURM_cluster_from_ARM_template.pdf)
+[Exercise1_SLURM_cluster_from_ARM_template.pdf](https://github.com/tojozefi/imgwlab/blob/master/resources/Exercise1_SLURM_cluster_from_ARM_template.pdf)
 
-[Exercise2 Running parallel job_with_Azure_Batch.pdf](https://github.com/tojozefi/scfelab/blob/master/Exercise2_Image_processing_with_Azure_Batch.pdf)
+[Exercise2 Running parallel job_with_Azure_Batch.pdf](https://github.com/tojozefi/imgwlab/blob/master/resources/Exercise2_Running_parallel_job_with_Azure_Batch.pdf)
 
-[Exercise3_RDMA_Linux_cluster_with_Azure_CLI.pdf](https://github.com/tojozefi/scfelab/blob/master/Exercise3_RDMA_Linux_cluster_with_Azure_CLI.pdf)
-
-[Exercise4_CycleCloud_PBS_Cluster.pdf](https://github.com/tojozefi/scfelab/blob/master/Exercise4_CycleCloud_PBS_Cluster.pdf)
+[Exercise3_RDMA_Linux_cluster_with_Azure_CLI.pdf](https://github.com/tojozefi/imgwlab/blob/master/resources/Exercise3_RDMA_Linux_cluster_with_Azure_CLI.pdf)
 
 ## Useful links
 ### Azure trial subscription activation
@@ -29,19 +27,19 @@
 [Azure Marketplace](https://azure.microsoft.com/en-us/marketplace/)
 
 ### Exercise 2
-[Batch Labs](https://azure.github.io/BatchLabs/)
+[Batch Labs](https://github.com/Azure/BatchLabs/blob/master/Readme.md)
 
-[pictures.zip](https://github.com/tojozefi/scfelab/blob/master/pictures.zip)
+[pictures.zip](https://github.com/tojozefi/imgwlab/blob/master/resources/pictures.zip)
 
 ### Exercise 3
 [Azure CLI installation guide](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli-apt?view=azure-cli-latest)
 
-[pingpong.sh](https://github.com/tojozefi/scfelab/blob/master/pingpong.sh)
+[pingpong.sh](https://github.com/tojozefi/imgwlab/blob/master/resources/pingpong.sh)
 
-[sshkey_copy.sh](https://github.com/tojozefi/scfelab/blob/master/sshkey_copy.sh)
+[sshkey_copy.sh](https://github.com/tojozefi/imgwlab/blob/master/sshkey_copy.sh)
 
 ### Exercise 4
-[CycleCloud GUI](https://cycleservergkpeyd.westeurope.cloudapp.azure.com/)
+[CycleCloud GUI](https://cycleserverzlyprb.westeurope.cloudapp.azure.com)
 
-[cyclecloud SSH key](https://cyclelabstore.blob.core.windows.net/cyclecloud/cyclecloud.sc_frontiers.pem)
+[cyclecloud SSH key](https://github.com/tojozefi/imgwlab/blob/master/resources/cyclelab.pem)
 
