@@ -7,9 +7,9 @@
 ## Workshop tutorial guides
 [Activate_Azure_trial_subscription.pdf](https://github.com/tojozefi/imgwlab/blob/master/Activate_Azure_trial_subscription.pdf)
 
-[Exercise1_SLURM_cluster_from_ARM_template.pdf](https://github.com/tojozefi/imgwlab/blob/master/Exercise1_SLURM_cluster_from_ARM_template.pdf)
+[Exercise1_SLURM_cluster_from_ARM_template.pdf](https://github.com/tojozefi/imgwlab/resources/blob/master/Exercise1_SLURM_cluster_from_ARM_template.pdf)
 
-[Exercise2 Parallelizing code_with_Azure_Batch.pdf](https://github.com/tojozefi/scfelab/blob/master/Exercise2_Image_processing_with_Azure_Batch.pdf)
+[Exercise2 Running parallel job_with_Azure_Batch.pdf](https://github.com/tojozefi/scfelab/blob/master/Exercise2_Image_processing_with_Azure_Batch.pdf)
 
 [Exercise3_RDMA_Linux_cluster_with_Azure_CLI.pdf](https://github.com/tojozefi/scfelab/blob/master/Exercise3_RDMA_Linux_cluster_with_Azure_CLI.pdf)
 
