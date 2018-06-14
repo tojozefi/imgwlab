@@ -7,7 +7,7 @@
 4. WL70GF80VIZFUSYBDL
 5. WGQK25796N0269MS5U
 6. WVIPKBING8RW083OQB
-7. ..
+7. WD5IPMMB0LSHY1LLTT
 
 ## Workshop tutorial guides
 [Activate_Azure_trial_subscription.pdf](https://github.com/tojozefi/imgwlab/blob/master/resources/Activate_Azure_trial_subscription.pdf)
